@@ -1,5 +1,6 @@
 ---
 title: Bajs
+visas: false
 content: |-
   * Test
   * Idag är det lördag
