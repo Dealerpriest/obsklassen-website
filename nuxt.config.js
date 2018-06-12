@@ -14,8 +14,10 @@ module.exports = {
       ]
     },
     modules: [
+      "nuxtent",
       "nuxt-netlify-cms"
     ],
+
     /*
     ** Customize the progress bar color
     */
