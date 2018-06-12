@@ -1,0 +1,19 @@
+{
+  "name": "obsklassen-website",
+  "version": "1.0.0",
+  "description": "nuxt project for obsklassen",
+  "main": "index.js",
+  "dependencies": {
+    "nuxt": "^1.4.0"
+  },
+  "devDependencies": {
+    "netlify-cms": "^1.8.0",
+    "nuxt-netlify-cms": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt"
+  },
+  "author": "",
+  "license": "ISC"
+}
